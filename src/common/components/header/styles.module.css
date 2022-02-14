@@ -1,0 +1,15 @@
+.title {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.titleContent {
+    font-family: "StarJedi";
+    color: #dede51;
+    font-size: 60px;
+    margin: 0;
+}

@@ -1,0 +1,10 @@
+export const cr90 = 'https://www.da-files.com/artnetwork/zeitgeist/star-wars-a-new-hope/img-24.jpg';
+export const starDestroyer = 'https://static.wikia.nocookie.net/esstarwars/images/9/92/Xyston_class_star_destroyer.jpg/revision/latest?cb=20200102200300';
+export const landingCraft = 'https://static.wikia.nocookie.net/esstarwars/images/d/d3/ImperialShuttle-DB.png/revision/latest?cb=20170816015613';
+export const deathStar = 'https://culturageek.com.ar/wp-content/uploads/2015/12/Death-Star-Ep-VI-culturageek.com_.ar_.jpg';
+export const millenniumFalcon = 'https://asset.conrad.com/media10/isa/160267/c1/-/pl/1391501_AB_00_FB/image.jpg';
+export const yWing = 'https://i.pinimg.com/originals/80/34/1c/80341cd25aaa9dd3c3790155b5f2f99b.jpg';
+export const xWing = 'https://hdwallpaperim.com/wp-content/uploads/2017/08/25/466693-Star_Wars-X-wing.jpg';
+export const tieAdvanced = 'https://wallpapercave.com/wp/wp8602882.jpg';
+export const executor = 'https://i.pinimg.com/originals/6c/8e/92/6c8e92f1c77e988ae96f4e108a7dca3b.jpg';
+export const rebelTransport = 'https://media.moddb.com/images/groups/1/9/8071/rebel_transport_box_art_by_wraithdt-d78zzb2.jpg';
